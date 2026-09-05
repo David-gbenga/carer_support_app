@@ -1,0 +1,14 @@
+openai
+python-dotenv
+
+azure-identity
+azure-search-documents
+azure-storage-file-datalake
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+pypdf
+
